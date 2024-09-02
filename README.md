@@ -88,11 +88,3 @@ MeetStream is deployed and can be accessed [here](your-deployment-link).
     ```bash
     http://localhost:3000
     ```
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this `README.md` to fit your project's details, and make sure to replace the placeholder for the deployment link with the actual link.
